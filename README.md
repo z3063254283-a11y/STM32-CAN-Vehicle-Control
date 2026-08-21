@@ -33,6 +33,9 @@
 - Hardware/：硬件驱动层
 - User/：应用层
 
+## 硬件展示
+<img width="1706" height="1279" alt="ce98da2fe748b9df7d7cad2a33563ebd" src="https://github.com/user-attachments/assets/329f6b80-3138-41e7-8f35-fe981654e721" />
+
 ## 联系方式
 姓名：赵浩杰 
 邮箱：306324283@qq.com
